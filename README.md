@@ -1,4 +1,4 @@
-# Hello, I’m @DivikChoudhary
+# Hello, I’m @DivikKumar
 
 - I’m interested in **Machine Learning**, **Data Science**, and **MLOps**.
 - I’m currently learning **MLOps** and improving my skills in **model deployment**, **automation**, and **cloud-based solutions**.
